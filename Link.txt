@@ -1,0 +1,2 @@
+github: https://github.com/salekin-newaz/Personal_portfolio_website
+live: https://salekin-newaz.github.io/Personal_portfolio_website/index.html
